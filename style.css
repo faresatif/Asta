@@ -17,6 +17,7 @@ header {
 }
 
 header h2 {
+    font-family: cursive;
     margin: 1;
 }
 
@@ -33,6 +34,7 @@ section {
 }
 
 footer {
+    font-family: cursive;
     background: #353535;
     color:#FFFFFF;
     padding: 2rem;
