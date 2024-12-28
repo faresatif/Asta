@@ -4,14 +4,14 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: gray;
-    color: white;
+    background-color: white;
+    color: #fff;
     text-align: center;
 }
 
 header {
-    background-color: white;
-    color: dimgray;
+    background-color: dimgray;
+    color: gray;
     padding: 1rem;
 }
 
@@ -32,7 +32,7 @@ section {
 }
 
 footer {
-    background: gray;
+    background: dimgray;
     color: white;
     padding: 1rem;
     position: fixed;
