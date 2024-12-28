@@ -40,3 +40,13 @@ footer {
     width: 100%;
   
 }
+
+a {
+            color: #2F2F2F;
+            text-decoration: none;
+}
+a:href{
+
+color :red ;
+    
+}
