@@ -34,10 +34,10 @@ section {
 }
 
 footer {
-    font-family: cursive;
+    font-family: fantasy;
     background: #353535;
     color:#FFFFFF;
-    padding: 2rem;
+    padding: 1rem;
     bottom: 0;
     width: 100%;
     
@@ -57,7 +57,7 @@ a {
 }
 h3{
 
-    font-family: fantasy;
+    font-family: cursive;
     
     
 }
