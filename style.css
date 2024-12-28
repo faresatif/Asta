@@ -4,7 +4,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color:#D4D4D4 ;
     color: #000000;
     text-align: center;
 }
@@ -27,7 +27,7 @@ main {
 section {
     margin-bottom: 2rem;
     padding: 1rem;
-    background: #fff;
+    background: #B8B8B8;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -35,18 +35,21 @@ section {
 footer {
     background: #353535;
     color:#FFFFFF;
-    padding: 0.3rem;
+    padding: 4rem;
     bottom: 0;
-    width: 100%;
+    width: 70%;
+    
+}
+h4{
+  
+  .center{
+  text-align: center ;
+}
+  
   
 }
 
 a {
-            color: #2F2F2F;
+            color: #00500B;
             text-decoration: none;
-}
-a:href{
-
-color :red ;
-    
 }
