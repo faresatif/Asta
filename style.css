@@ -56,6 +56,8 @@ a {
             color: #00500B;
             text-decoration: none;
             line-height: 10;
+            display: flex;
+            gap:20px;
 }
 h3{
 
